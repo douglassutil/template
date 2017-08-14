@@ -1,15 +1,12 @@
-# TRABALHO INTEGRADO: Título do trabalho
+# TRABALHO INTEGRADO: Academia Monstrao (Titulo Provisório)
 
 Trabalho desenvolvido durante as disciplinas de:
-- Banco de Dados 2, 
-- Engenharia de Software, 
-- Programação Orientada a Objetos 2,
-- Projeto de Sistemas
+- Banco de Dados 2
 
 
 **INTEGRANTES DO GRUPO:** 
-- Nome integrante 1
-- Nome integrante 2<br>
+- Douglas Campos Sutil
+- Lucas Dipré Pereira<br>
 
         
 # Sumário
