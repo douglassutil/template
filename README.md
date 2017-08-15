@@ -21,7 +21,21 @@ escrever os motivos, necessidades e benefícios do projeto.
 descrever os personas de tal forma que descreva as necessidades do usuário pelo sistema.
 
 ## 3	Minimundo 
-descrição breve sobre o sistema 
+O “Academia Monstrão” é um software de gestão de exercícios de academia preparado para gerir e fiscalizar todas as séries de exercícios recomendadas para os frequentadores da academia. Com interfaces amigáveis e de fácil uso para criação de séries, é possível também controlar turmas com quantidades específicas de alunos por horários.
+
+Além disso, o “Academia Monstrão” possui módulos específicos para atender diferentes necessidades. As ferramentas de montagem de treinos, por exemplo, são práticas e ajudam a proporcionar um atendimento de qualidade, com um gasto de tempo muito menor, enquanto você amplia o relacionamento com seus alunos por meio dos aplicativos integrados às atividades desenvolvidas na academia.
+
+O sistema possui 4 tipos diferentes de categorias de usuários: Recepção,Aluno,Instrutor e Médico.
+
+O usuário do tipo “Recepção”, entrará com as informações de cadastros iniciais do aluno.
+
+A categoria “Aluno” terá acesso à série recomendada, histórico de evolução dos exercícios, histórico de mudanças das medidas do seu corpo, além da possibilidade de inserir espécies de anotações nos exercícios praticados naquele determinado dia (peso e repetições praticadas naquele dia).
+
+Já o “Instrutor” poderá criar/editar/visualizar as séries de exercícios de todos os seus “Alunos”, além do acesso ao histórico para o monitoramento da evolução do mesmo.
+
+O “Médico” basicamente irá inserir as métricas do aluno, além de apontar as restrições que cada um terá.
+
+Dentro da academia, o “Academia Monstrão” funciona sem depender da velocidade ou estabilidade da internet. Assim, é possível manter o software de gestão de exercícios sempre ativo, com ou sem conexão. Mas é possível também acessar o sistema de qualquer lugar, com um aplicativo que se conecta com o servidor da academia, basta estar conectado a uma rede.
 
 ## 4	Requisitos de Usuários
 ### 4.1	Requisitos Funcionais (Histórias de Usuário)
